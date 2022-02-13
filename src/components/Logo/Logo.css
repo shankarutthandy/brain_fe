@@ -1,0 +1,9 @@
+.Logo{
+    background: linear-gradient(to right,pink,red);
+    width:150px;
+    height:150px;
+}
+.Logo:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
